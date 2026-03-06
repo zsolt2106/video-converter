@@ -1,2 +1,11 @@
 # video-converter
-lightweight bash script to convert videos with ffmpeg
+At the moment it works like this:
+
+Check the files in the folder for .MOV files
+Converts them
+Creates a folder called 'converted'
+Places the converted files into the aforementioned folder.
+
+TODO:
+handle ".mov" file names
+input for: target folder and and output folder
