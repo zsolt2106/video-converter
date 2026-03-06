@@ -6,6 +6,4 @@ Converts them
 Creates a folder called 'converted'
 Places the converted files into the aforementioned folder.
 
-TODO:
-handle ".mov" file names
-input for: target folder and and output folder
+TODO: soon
